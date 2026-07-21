@@ -1,0 +1,1499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Lucky Wheel Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-06 09:17+0000\n"
+"PO-Revision-Date: 2022-08-08 09:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Vietnamese\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1"
+
+#: frontend/frontend.php:1388
+msgid " seconds"
+msgstr "giây"
+
+#: admin/admin.php:2075
+msgid ""
+" The API key for connecting with your MailChimp account. Get your API key "
+msgstr " API key để kết nối tới tài khoản MailChimp. Lấy API key "
+
+#: frontend/frontend.php:1396
+msgid " to be able to spin again."
+msgstr "để có thể quay tiếp lần nữa. "
+
+#: admin/admin.php:769
+msgid " to hide wheel on homepage"
+msgstr "để ẩn vòng quay trên trang chủ"
+
+#: admin/admin.php:1596
+msgid "\"From\" address"
+msgstr "Địa chỉ người gửi"
+
+#: admin/admin.php:1587
+msgid "\"From\" name"
+msgstr "Tên người gửi"
+
+#: admin/admin.php:765
+msgid ""
+"\"Home page\", \"Blog page\" options above must be disabled to run these "
+"conditional tags."
+msgstr ""
+"Lựa chọn \"Trang chủ\", \"Bài viết\" bên trên phải được tắt để chạy những "
+"tags điều kiện này"
+
+#: admin/admin.php:1070
+msgid "\"Name\" field"
+msgstr "Trường \"Tên\""
+
+#: admin/admin.php:1098
+msgid "\"Name\" field is required"
+msgstr "Trường \"Tên\" là bắt buộc"
+
+#: admin/admin.php:1084
+msgid "\"Name\" field on mobile"
+msgstr "Hiển thị trên điện thoại"
+
+#: admin/admin.php:1115
+msgid "\"Phone number\" field"
+msgstr "Trường \"Số điện thoại\""
+
+#: admin/admin.php:1143
+msgid "\"Phone number\" field is required"
+msgstr "Trường \"Số điện thoại\" là bắt buộc"
+
+#: admin/admin.php:1129
+msgid "\"Phone number\" field on mobile"
+msgstr "Hiển thị trên điện thoại"
+
+#: admin/admin.php:1326 admin/admin.php:1339
+msgid "%"
+msgstr "%"
+
+#: frontend/frontend.php:1390
+#, php-format
+msgid "%s days %s hours %s minutes %s seconds"
+msgstr "%s ngày %s giờ %s phút %s giây "
+
+#: frontend/frontend.php:1392
+#, php-format
+msgid "%s hours %s minutes %s seconds"
+msgstr "%s giờ %s phút %s giây "
+
+#: frontend/frontend.php:1394
+#, php-format
+msgid "%s minutes %s seconds"
+msgstr "%s phút %s giây "
+
+#: admin/admin.php:2358
+msgid ""
+"**The API key for connecting with your Hubspot account. Get your API key "
+msgstr "**API key để kết nối tới tài khoản Hubspot. Lấy API key "
+
+#: admin/admin.php:2393
+msgid ""
+"**The API key for connecting with your Klaviyo account. Get your API key "
+msgstr "**API key để kết nối tới tài khoản Klaviyo. Lấy API key "
+
+#: admin/admin.php:2450
+msgid ""
+"**The API key for connecting with your Sendinblue account. Get your API key "
+msgstr "**API key để kết nối tới tài khoản Sendinblue. Lấy API key "
+
+#: admin/admin.php:2231
+msgid ""
+"**This API Key must have full-access permission of API Keys. You can set it "
+msgstr ""
+"**API Key này cần có toàn quyền truy cập của API Keys. Vui lòng cài đặt"
+
+#: frontend/shortcode.php:241
+msgid "*Mobile is required!"
+msgstr "*Vui lòng điền số điện thoại!"
+
+#: frontend/shortcode.php:240
+msgid "*Name is required!"
+msgstr "*Vui lòng điền tên!"
+
+#: frontend/shortcode.php:239 frontend/frontend.php:540
+msgid "*Please enter a valid email address"
+msgstr "*Vui lòng điền địa chỉ email hợp lệ"
+
+#: frontend/shortcode.php:238 frontend/frontend.php:538
+msgid "*Please enter your email"
+msgstr "*Vui lòng điền địa chỉ email"
+
+#: frontend/frontend.php:539
+msgid "*Require reCAPTCHA verification"
+msgstr "*Yêu cầu xác nhận reCAPTCHA"
+
+#: admin/admin.php:2230
+msgid ""
+"*This is the API key that's shown only once when your created it, not the "
+"API key ID."
+msgstr ""
+"*Đây là API key chỉ hiển thị một lần khi được tạo, không phải là API key ID."
+
+#: admin/admin.php:2657
+msgid ""
+"1, Visit <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"page</a> to sign up for an API key pair with your Gmail account"
+msgstr ""
+"1, Đến <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"trang này</a> để đăng ký và lấy cặp API key trong tài khoản Gmail"
+
+#: admin/admin.php:2661
+msgid "2, Choose reCAPTCHA v2 checkbox "
+msgstr "2, Chọn reCAPTCHA v2"
+
+#: admin/admin.php:2665
+msgid "2, Choose reCAPTCHA v3"
+msgstr "2, Chọn reCAPTCHA v3"
+
+#: admin/admin.php:2667
+msgid "3, Fill in authorized domains"
+msgstr "3, Điền địa chỉ trang web đã được ủy quyền"
+
+#: admin/admin.php:2668
+msgid "4, Accept terms of service and click Register button"
+msgstr "4, Đồng ý điều khoản dịch vụ và ấn nút Đăng ký"
+
+#: admin/admin.php:2669
+msgid "5, Copy and paste the site and secret key into the above field"
+msgstr "5, Sao chép và dán địa chỉ webiste và secret key vào trường bên trên"
+
+#: admin/admin.php:640
+msgid "Action required to open the popup"
+msgstr "Thao tác để mở popup"
+
+#: admin/admin.php:2150
+msgid "Active Campaign"
+msgstr "Active Campaign"
+
+#: admin/admin.php:2163
+msgid "Active Campaign API Key"
+msgstr "Active Campaign API Key"
+
+#: admin/admin.php:2173
+msgid "Active Campaign API URL"
+msgstr "Active Campaign API URL"
+
+#: admin/admin.php:2183
+msgid "Active Campaign list"
+msgstr "Danh sách Active Campaign"
+
+#: admin/admin.php:802 admin/admin.php:809 admin/admin.php:1211 
+#: admin/admin.php:1218
+msgid "Add Image"
+msgstr "Thêm Ảnh"
+
+#: wordpress-lucky-wheel.php:60
+msgctxt "Add new on Admin bar"
+msgid "Emails"
+msgstr "Emails"
+
+#: admin/admin.php:1319
+msgid "Adjust font size of text on the wheel by"
+msgstr "Điều chỉnh cỡ chữ trên vòng quay"
+
+#: includes/elementor/widget.php:279
+msgid "Adjust Font Size(%)"
+msgstr "Điều chỉnh Cỡ Chữ(%)"
+
+#: admin/admin.php:1332
+msgid "Adjust wheel size by"
+msgstr "Điều chỉnh kích cỡ vòng quay"
+
+#: includes/elementor/widget.php:290
+msgid "Adjust Wheel Size(%)"
+msgstr "Điều chỉnh Kích cỡ Vòng quay(%)"
+
+#: wordpress-lucky-wheel.php:59
+msgctxt "Admin menu"
+msgid "Emails"
+msgstr "Emails"
+
+#: admin/admin.php:709
+msgid "After one spin, show the popup again after"
+msgstr "Sau mỗi lần quay, hiện lại popup sau"
+
+#: admin/admin.php:441
+msgid "Ajax"
+msgstr "Ajax"
+
+#: admin/admin.php:434
+msgid "Ajax endpoint"
+msgstr "Ajax endpoint"
+
+#: frontend/frontend.php:237
+#, php-format
+msgid ""
+"All prizes of WordPress Lucky Wheel have been won. Please go to <a "
+"target=\"_blank\" href=\"%s\">WordPress Lucky Wheel settings</a> to config "
+"the wheel."
+msgstr ""
+"Đã hết giải thưởng WordPress Lucky Wheel. Vui lòng đến <a target=\"_blank\" "
+"href=\"%s\">trang cài đặt WordPress Lucky Wheel</a> để cấu hình vòng quay. "
+
+#: admin/admin.php:3252
+msgid "Allow URL Open"
+msgstr "Cho Phép Mở URL"
+
+#: admin/admin.php:2069
+msgid "API key"
+msgstr "API key"
+
+#: admin/admin.php:1565
+msgid "Auto Color"
+msgstr "Màu tự động"
+
+#: admin/admin.php:493 admin/admin.php:502
+msgid ""
+"Auto reset spins: Reset the total spins of every email to zero at a specific "
+"time"
+msgstr ""
+"Tự động đặt lại số lượt quay: Đưa tổng số lượt quay của mỗi địa chỉ email về "
+"0 tại một thời điểm cụ thể"
+
+#: admin/admin.php:2683
+msgid "Auto update key"
+msgstr "Mã tự động cập nhật"
+
+#: admin/admin.php:1909
+msgid "Automatically hide wheel after finishing spinning"
+msgstr "Tự động ẩn vòng quay sau khi quay"
+
+#: admin/admin.php:646
+msgid "Automatically show wheel after initial time"
+msgstr "Tự động hiện vòng quay sau khoảng thời gian"
+
+#: includes/elementor/widget.php:38
+msgid "Background Color"
+msgstr "Màu Nền"
+
+#: admin/admin.php:817 admin/admin.php:1786
+msgid "Background color"
+msgstr "Màu nền"
+
+#: admin/admin.php:836
+msgid "Background effect"
+msgstr "Hiệu ứng nền"
+
+#: includes/elementor/widget.php:52
+msgid "Background Image"
+msgstr "Ảnh Nền"
+
+#: admin/admin.php:783
+msgid "Background image"
+msgstr "Ảnh nền"
+
+#: includes/data.php:397
+msgid "Balloons"
+msgstr "Bóng bay"
+
+#: admin/admin.php:1771
+msgid "Base color"
+msgstr "Màu gốc"
+
+#: includes/data.php:402
+msgid "Blurred snows"
+msgstr "Tuyết mờ"
+
+#: admin/admin.php:1801
+msgid "Body background color"
+msgstr "Màu nền của nội dung"
+
+#: admin/admin.php:1817
+msgid "Body text color"
+msgstr "Màu chữ nội dung"
+
+#: admin/admin.php:1172 includes/elementor/widget.php:179
+msgid "Bottom"
+msgstr "Phía dưới"
+
+#: admin/admin.php:632
+msgid "Bottom Left"
+msgstr "Phía dưới trái"
+
+#: admin/admin.php:633
+msgid "Bottom Right"
+msgstr "Phía dưới phải"
+
+#: includes/elementor/widget.php:142
+msgid "Button Spin Background Color"
+msgstr "Màu Nền Nút Quay"
+
+#: includes/elementor/widget.php:127
+msgid "Button Spin Color"
+msgstr "Màu Chữ Nút Quay"
+
+#: admin/admin.php:3395
+msgid "Cancel"
+msgstr "Hủy"
+
+#: admin/admin.php:1169 includes/elementor/widget.php:176
+msgid "Center"
+msgstr "Vùng trung tâm"
+
+#: includes/elementor/widget.php:78
+msgid "Center Image"
+msgstr "Ảnh vùng trung tâm"
+
+#: admin/admin.php:1475
+msgid "Clone this item"
+msgstr "Nhân bản"
+
+#. Description of the plugin
+msgid ""
+"Collect customers emails by letting them play interesting Lucky wheel game "
+"to get interesting awards"
+msgstr ""
+"Thu hút khách hàng với trò chơi may mắn, tăng doanh thu bằng cách cổ vũ "
+"khách hàng mua nhiều hơn với giải thưởng nhận được là coupon, và lưu lại địa "
+"chỉ email của họ cho các chiến dịch marketing..."
+
+#: admin/admin.php:1408
+msgid "Color"
+msgstr "Màu"
+
+#: admin/admin.php:1572
+msgid "Color is set randomly from predefined sets for each visitor"
+msgstr "Màu được chọn ngẫu nhiên từ cài đặt xác định trước cho mỗi người dùng"
+
+#: admin/admin.php:752
+msgid "Conditional tags"
+msgstr "Conditional tags"
+
+#: includes/elementor/widget.php:186
+msgid "Congratulation Effect"
+msgstr "Hiệu ứng Chúc mừng"
+
+#: admin/admin.php:3208
+msgid "Coupon Given"
+msgstr "Phiếu giảm giá được đưa ra"
+
+#: wordpress-lucky-wheel.php:94
+msgid "Coupons"
+msgstr "Phiếu giảm giá"
+
+#: admin/admin.php:1727 admin/admin.php:1896 admin/admin.php:1971
+msgid "Current date"
+msgstr "Ngày hiện tại"
+
+#: admin/admin.php:1481
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: admin/admin.php:1054
+msgid "Custom css"
+msgstr "CSS Tùy chỉnh"
+
+#: admin/admin.php:390
+msgid "Custom Fields"
+msgstr "Trường Tùy Chỉnh"
+
+#: admin/admin.php:573
+msgid "Custom popup icon"
+msgstr "Biểu tượng popup"
+
+#: admin/admin.php:609
+msgid "Custom popup icon background color"
+msgstr "Màu nền biểu tượng"
+
+#: admin/admin.php:594
+msgid "Custom popup icon color"
+msgstr "Màu biểu tượng"
+
+#: wordpress-lucky-wheel.php:88
+msgid "Customer name"
+msgstr "Tên khách hàng"
+
+#: admin/admin.php:1721 admin/admin.php:1890
+msgid "Customer's mobile if any."
+msgstr "Số điện thoại khách hàng nếu có."
+
+#: admin/admin.php:1719 admin/admin.php:1888
+msgid "Customer's name."
+msgstr "Tên khách hàng."
+
+#: admin/admin.php:1965
+msgid "Customers'name if they enter"
+msgstr "Tên khách hàng nếu có"
+
+#: admin/admin.php:2637
+msgid "Dark"
+msgstr "Tối"
+
+#: admin/admin.php:520
+msgid "Day(s)"
+msgstr "Ngày"
+
+#: admin/admin.php:479 admin/admin.php:702 admin/admin.php:721
+msgid "Days"
+msgstr "Ngày"
+
+#: includes/elementor/widget.php:190
+msgid "Disable"
+msgstr "Tắt"
+
+#: admin/admin.php:2244
+msgid "Do not add to any list"
+msgstr "Không thêm vào bất kỳ danh sách nào"
+
+#: admin/admin.php:1555
+msgid ""
+"Each time a customer wins a prize, its quantity will be automatically "
+"reduced by 1"
+msgstr ""
+"Mỗi khi khách hàng thắng một giải, số lượng giải thưởng tự động giảm đi 1"
+
+#: admin/admin.php:394
+msgid "Email"
+msgstr "Email"
+
+#: admin/admin.php:398
+msgid "Email API"
+msgstr "Email API"
+
+#: admin/admin.php:1679
+msgid "Email content"
+msgstr "Nội dung email"
+
+#: admin/admin.php:1642
+msgid "Email heading"
+msgstr "Tiêu đề email"
+
+#: frontend/frontend.php:1171
+msgid "Email is invalid"
+msgstr "Email không hợp lệ"
+
+#: admin/admin.php:1605
+msgid "Email subject"
+msgstr "Chủ đề email"
+
+#: wordpress-lucky-wheel.php:62
+msgid "Email Subscribe"
+msgstr "Email Đăng ký"
+
+#: admin/admin.php:1967
+msgid "Email that customers enter to spin"
+msgstr "Địa chỉ email khách"
+
+#: admin/admin.php:83
+msgid "Emails"
+msgstr "Emails"
+
+#: admin/admin.php:3207
+msgid "Emails Subcribed"
+msgstr "Emails Đã đăng ký"
+
+#: admin/admin.php:410 admin/admin.php:1839 admin/admin.php:2046 
+#: admin/admin.php:2060 admin/admin.php:2156 admin/admin.php:2218 
+#: admin/admin.php:2273 admin/admin.php:2347 admin/admin.php:2380 
+#: admin/admin.php:2437 admin/admin.php:2502 admin/admin.php:2549 
+#: admin/admin.php:2584
+msgid "Enable"
+msgstr "Bật"
+
+#: admin/admin.php:1833
+msgid "Enable admin notification"
+msgstr "Thông báo tới Quản trị viên"
+
+#: includes/elementor/widget.php:222
+msgid "Enable Field Name"
+msgstr "Bật trường \"Tên\""
+
+#: includes/elementor/widget.php:251
+msgid "Enable Field Phone Number"
+msgstr "Bật trường \"Số điện thoại\""
+
+#: admin/admin.php:2040
+msgid "Enable Mailchimp"
+msgstr "Kích hoạt Mailchimp"
+
+#: admin/admin.php:422
+msgid "Enable mobile"
+msgstr "Kích hoạt trên điện thoại"
+
+#: admin/admin.php:756
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr "Ex: !is_page(array(123,41,20))"
+
+#: admin/admin.php:3227
+msgid "Export Emails"
+msgstr "Xuất danh sách Emails"
+
+#: includes/data.php:391
+msgid "Falling Leaves 1"
+msgstr "Lá rơi 1"
+
+#: includes/data.php:392
+msgid "Falling Leaves 2"
+msgstr "Lá rơi 2"
+
+#: includes/elementor/widget.php:238
+msgid "Field Name Is Required"
+msgstr "Trường \"Tên\" là bắt buộc"
+
+#: includes/elementor/widget.php:266
+msgid "Field Phone Number Is Required"
+msgstr "Trường \"Số điện thoại\" là bắt buộc"
+
+#: admin/admin.php:3240
+msgid "file_get_contents"
+msgstr "file_get_contents"
+
+#: admin/admin.php:1986 includes/elementor/widget.php:191
+msgid "Firework"
+msgstr "Pháo hoa"
+
+#: admin/admin.php:1733
+msgid "Footer text"
+msgstr "Chân thư"
+
+#: admin/admin.php:3218
+msgid "From"
+msgstr "Từ"
+
+#: admin/admin.php:1995
+msgid "Frontend message if lost"
+msgstr "Thông báo nếu khách hàng không thắng"
+
+#: admin/admin.php:1924
+msgid "Frontend Message if win"
+msgstr "Thông báo thắng giải"
+
+#: admin/admin.php:464
+msgid "Gap between 2 spins"
+msgstr "Khoảng cách giữa 2 lần quay"
+
+#: admin/admin.php:664
+msgid ""
+"Gap time before the popup icon appears after the action to trigger is done. "
+"This gap time is selected randomly within the range you add. Enter min,max "
+"time (seconds). For example: 1,2"
+msgstr ""
+"Khoảng cách thời gian từ khi thực hiện hành động đến khi biểu tượng hiện ra. "
+"Được chọn ngẫu nhiên trong khoảng thời gian đã đặt. Điền khoảng thời gian "
+"nhỏ nhất, lớn nhất (giây). Ví dụ: 1,2"
+
+#: admin/admin.php:470 admin/admin.php:685
+msgid "Gap time between 2 consecutive spins of an email"
+msgstr "Khoảng cách thời gian lần quay liên tiếp của cùng một địa chỉ email"
+
+#: admin/admin.php:1004
+msgid "GDPR checkbox"
+msgstr "Hộp kiểm GDPR"
+
+#: admin/admin.php:1017
+msgid "GDPR message"
+msgstr "Thông báo GDPR"
+
+#: admin/admin.php:384 includes/elementor/widget.php:31
+msgid "General"
+msgstr "Tổng quan"
+
+#: admin/admin.php:2650
+msgid "Get Google reCAPTCHA V2 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V2 Site và Secret key"
+
+#: admin/admin.php:2654
+msgid "Get Google reCAPTCHA V3 Site and Secret key"
+msgstr "Lấy Google reCAPTCHA V3 Site và Secret key"
+
+#: admin/admin.php:2695
+msgid "Get Key"
+msgstr "Lấy mã"
+
+#: admin/admin.php:400
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/admin.php:2644
+msgid "Guide"
+msgstr "Hướng dẫn "
+
+#: includes/data.php:387
+msgid "Halloween"
+msgstr "Halloween"
+
+#: includes/data.php:388
+msgid "Halloween 1"
+msgstr "Halloween 1"
+
+#: includes/data.php:389
+msgid "Halloween 2"
+msgstr "Halloween 2"
+
+#: includes/data.php:390
+msgid "Halloween 3"
+msgstr "Halloween 3"
+
+#: includes/data.php:394
+msgid "Heart"
+msgstr "Trái tim"
+
+#: includes/data.php:393
+msgid "Hearts"
+msgstr "Trái tim"
+
+#: admin/admin.php:2076
+msgid "here"
+msgstr "ở đây"
+
+#: admin/admin.php:2233 admin/admin.php:2360 admin/admin.php:2395 
+#: admin/admin.php:2452
+msgid "here."
+msgstr "ở đây."
+
+#: admin/admin.php:679
+msgid "Hide popup icon"
+msgstr "Ẩn biểu tượng popup"
+
+#: admin/admin.php:536
+msgid "Hour"
+msgstr "Giờ "
+
+#: admin/admin.php:478 admin/admin.php:701 admin/admin.php:720
+msgid "Hours"
+msgstr "Giờ "
+
+#: admin/admin.php:1301
+msgid "How long the wheel will spin. Valid duration from 3 to 15 seconds"
+msgstr "Vòng quay trong bao lâu. Thời hạn hợp lệ từ 3 đến 15 giây"
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
+
+#: admin/admin.php:2340
+msgid "Hubspot"
+msgstr "Hubspot"
+
+#: admin/admin.php:2353
+msgid "Hubspot API Key"
+msgstr "Hubspot API Key"
+
+#: frontend/shortcode.php:351 frontend/frontend.php:744 
+#: frontend/frontend.php:986
+msgid "I agree with the term and condition"
+msgstr "Tôi đồng ý với điều khoản và điều kiện"
+
+#: admin/admin.php:2062
+msgid ""
+"If enabled, a confirm subscription email will be sent to each subscriber for "
+"them to confirm that they subscribe to your list."
+msgstr ""
+"Nếu được bật, một email xác nhận đăng ký sẽ được gửi tới người đăng ký để "
+"xác nhận họ đã đăng ký vào danh sách. "
+
+#: admin/admin.php:589
+msgid "If no icon is selected, a small version of your real wheel will be used"
+msgstr ""
+"Nếu không có biểu tượng nào được chọn, vòng quay phiên bản nhỏ sẽ được sử "
+"dụng"
+
+#: admin/admin.php:2330
+msgid "If the user has opted in for receiving emails."
+msgstr "Nếu người dùng đã đồng ý nhận email. "
+
+#: admin/admin.php:691
+msgid "If the wheel is closed without a spin, show the popup again after"
+msgstr "Nếu khách hàng đóng mà không quay vòng quay, hiển thị lại popup sau"
+
+#: admin/admin.php:1389
+msgid "Index"
+msgstr "Index"
+
+#: admin/admin.php:396
+msgid "Inform Result"
+msgstr "Thông báo kết quả"
+
+#: admin/admin.php:655
+msgid "Initial time"
+msgstr "Thời gian khởi tạo"
+
+#: admin/admin.php:2372
+msgid "Klaviyo"
+msgstr "Klaviyo"
+
+#: admin/admin.php:2387
+msgid "Klaviyo API Key"
+msgstr "Klaviyo API Key"
+
+#: admin/admin.php:2401
+msgid "Klaviyo list"
+msgstr "Danh sách Klaviyo"
+
+#: admin/admin.php:1394 admin/admin.php:1398
+msgid "Label"
+msgstr "Nhãn"
+
+#: admin/admin.php:2974
+msgid "Label cannot be empty."
+msgstr "Nhãn không được để trống"
+
+#: admin/admin.php:1725 admin/admin.php:1894 admin/admin.php:1963
+msgid "Label of prize that customers win"
+msgstr "Nhãn giải thưởng khách hàng đã thắng"
+
+#: wordpress-lucky-wheel.php:93
+msgid "Labels"
+msgstr "Nhãn"
+
+#: wordpress-lucky-wheel.php:92
+msgid "Last spin"
+msgstr "Lần quay cuối cùng"
+
+#: admin/admin.php:1919
+msgid "Left 0 to disable this feature"
+msgstr "Đặt 0 để tắt tính năng này"
+
+#: admin/admin.php:522
+msgid "Left zero to disable this function"
+msgstr "Đặt 0 để tắt tính năng này"
+
+#: admin/admin.php:761
+msgid ""
+"Let you control on which pages WordPress Lucky wheel icon appears using "
+msgstr ""
+"Cho phép biểu tượng WordPress Lucky Wheel xuất hiện trên trang nào sử dụng"
+
+#: admin/admin.php:2638
+msgid "Light"
+msgstr "Sáng"
+
+#: admin/admin.php:3202
+msgid "Lucky Wheel Report"
+msgstr "Báo cáo Lucky Wheel"
+
+#: admin/admin.php:2054
+msgid "Mailchimp double optin"
+msgstr "Mailchimp double optin"
+
+#: admin/admin.php:2082
+msgid "Mailchimp lists"
+msgstr "Danh sách Mailchimp"
+
+#: admin/admin.php:2495
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: admin/admin.php:2509
+msgid "MailPoet list"
+msgstr "Danh sách MailPoet"
+
+#: admin/admin.php:2542
+msgid "Mailster"
+msgstr "Mailster"
+
+#: admin/admin.php:2556
+msgid "Mailster list"
+msgstr "Danh sách Mailster"
+
+#: admin/admin.php:1313
+msgid ""
+"Make all wheel segments visible on desktop. By default, the wheel on desktop "
+"shows partially. Enable this option to to make it show fully."
+msgstr "Hiển thị toàn bộ vòng quay trên màn hình máy tính. "
+
+#: admin/admin.php:2267
+msgid "Metrilo"
+msgstr "Metrilo"
+
+#: admin/admin.php:2288
+msgid "Metrilo tag"
+msgstr "Metrilo tag"
+
+#: admin/admin.php:2279
+msgid "Metrilo Token"
+msgstr "Metrilo Token"
+
+#: admin/admin.php:630
+msgid "Middle Left"
+msgstr "Giữa bên trái"
+
+#: admin/admin.php:631
+msgid "Middle Right"
+msgstr "Giữa bên phải"
+
+#: admin/admin.php:544
+msgid "Minute"
+msgstr "Phút"
+
+#: admin/admin.php:477 admin/admin.php:700 admin/admin.php:719
+msgid "Minutes"
+msgstr "Phút"
+
+#: admin/metrilo.php:56
+msgid "Missing token"
+msgstr "Token bị thiếu"
+
+#: wordpress-lucky-wheel.php:89
+msgid "Mobile"
+msgstr "Điện thoại"
+
+#: frontend/frontend.php:1192
+msgid "Mobile field is not a valid phone number."
+msgstr "Số điện thoại không hợp lệ."
+
+#: frontend/frontend.php:1185
+msgid "Mobile is required"
+msgstr "Cần điền số điện thoại"
+
+#: frontend/frontend.php:549
+msgid "Mobile is required!"
+msgstr "Vui lòng điền số điện thoại!"
+
+#: frontend/frontend.php:1178
+msgid "Name is required"
+msgstr "Cần điền tên"
+
+#: frontend/frontend.php:545
+msgid "Name is required!"
+msgstr "Vui lòng điền tên!"
+
+#: frontend/frontend.php:757 frontend/frontend.php:999
+msgid "Never"
+msgstr "Không bao giờ"
+
+#: admin/admin.php:495
+#, php-format
+msgid "Next schedule: <strong>%s</strong>"
+msgstr "Thời hạn tiếp theo: <strong>%s</strong>"
+
+#: includes/elementor/widget.php:227 includes/elementor/widget.php:243 
+#: includes/elementor/widget.php:256 includes/elementor/widget.php:271
+msgid "No"
+msgstr "Không"
+
+#: wordpress-lucky-wheel.php:66
+msgid "No Email found in Trash."
+msgstr "Không tìm thấy Email nào trong Thùng rác"
+
+#: wordpress-lucky-wheel.php:65
+msgid "No Email found."
+msgstr "Không tìm thấy Thư nào. "
+
+#: frontend/frontend.php:763 frontend/frontend.php:1005
+msgid "No thanks"
+msgstr "Không, cảm ơn"
+
+#: admin/admin.php:1480
+msgid "Non"
+msgstr "Không có"
+
+#: admin/admin.php:1983 includes/data.php:386
+msgid "None"
+msgstr "Không có"
+
+#: admin/admin.php:976
+msgid "Not display wheel again"
+msgstr "Không hiển thị lại vòng quay"
+
+#: admin/admin.php:1877
+msgid "Notification Email content"
+msgstr "Nội dung Email thông báo"
+
+#: admin/admin.php:1867
+msgid "Notification Email heading"
+msgstr "Tiêu đề Email thông báo"
+
+#: admin/admin.php:1856
+msgid "Notification Email subject"
+msgstr "Chủ đề Email thông báo"
+
+#: wordpress-lucky-wheel.php:91
+msgid "Number of spins"
+msgstr "Số lần quay"
+
+#: admin/admin.php:3394
+msgid "OK"
+msgstr "OK"
+
+#: wordpress-lucky-wheel.php:64
+msgid "Parent Email:"
+msgstr "Thư Cha:"
+
+#: admin/admin.php:1449
+msgid "Percentage(%)"
+msgstr "Phần trăm(%)"
+
+#: frontend/shortcode.php:233 frontend/frontend.php:519
+msgid "Please agree with our term and condition."
+msgstr "Vui lòng đồng ý các điều khoản và điều kiện."
+
+#: admin/admin.php:2317
+msgid "Please enter tags separated by comma(,)"
+msgstr "Vui lòng điền các thẻ ngăn cách bởi dấu phẩy(,)"
+
+#: admin/admin.php:2986
+msgid "Please enter value for custom type."
+msgstr "Điền giá trị cho kiểu tùy chỉnh"
+
+#: frontend/shortcode.php:333 frontend/frontend.php:726 
+#: frontend/frontend.php:968
+msgid "Please enter your email"
+msgstr "Vui lòng nhập địa chỉ thư điện tử"
+
+#: frontend/shortcode.php:314 frontend/frontend.php:716 
+#: frontend/frontend.php:958
+msgid "Please enter your mobile"
+msgstr "Vui lòng nhập số điện thoại"
+
+#: frontend/shortcode.php:299 frontend/frontend.php:705 
+#: frontend/frontend.php:947
+msgid "Please enter your name"
+msgstr "Vui lòng nhập tên"
+
+#: admin/admin.php:2700
+msgid ""
+"Please fill your key what you get from https://villatheme.com/my-download. "
+"See <a target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-"
+"use-auto-update-feature/\">guide</a>."
+msgstr ""
+"Vui lòng điền mã được lấy từ <a target=\"_blank\" href=\"https://villatheme."
+"com/my-download\">https://villatheme.com/my-download</a>. Xem <a "
+"target=\"_blank\" href=\"https://villatheme.com/knowledge-base/how-to-use-"
+"auto-update-feature/\">hướng dẫn này</a> nếu cần thiết."
+
+#: includes/elementor/widget.php:157
+msgid "Pointer Color"
+msgstr "Màu Con trỏ"
+
+#: includes/elementor/widget.php:172
+msgid "Pointer Position"
+msgstr "Vị trí Con trỏ"
+
+#: admin/admin.php:1165
+msgid "Pointer position"
+msgstr "Vị trí Con trỏ"
+
+#: admin/admin.php:386
+msgid "Pop-up"
+msgstr "Pop-up"
+
+#: admin/admin.php:645
+msgid "Popup icon"
+msgstr "Biểu tượng popup"
+
+#: admin/admin.php:624
+msgid "Popup icon position"
+msgstr "Vị trí biểu tượng"
+
+#: admin/admin.php:635
+msgid "Position of the popup on screen"
+msgstr "Vị trí biểu tượng hiển thị trên màn hình"
+
+#: admin/admin.php:112
+msgid "Preview emails"
+msgstr "Xem trước email"
+
+#: admin/admin.php:1160
+msgid "Preview Wheel"
+msgstr "Xem trước Vòng quay"
+
+#: admin/admin.php:1390
+msgid "Prize Type"
+msgstr "Kiểu giải thưởng"
+
+#: admin/admin.php:1969
+msgid "Prize value will be sent to customer."
+msgstr "Giá trị giải thưởng được gửi tới khách hàng"
+
+#: admin/admin.php:1404
+msgid "Probability"
+msgstr "Xác suất"
+
+#: admin/admin.php:1406
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: admin/admin.php:1173 includes/data.php:403
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: admin/admin.php:649
+msgid "Random one of these above"
+msgstr "Chọn ngẫu nhiên trong các thao tác trên"
+
+#: admin/admin.php:2606
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA v2"
+
+#: admin/admin.php:2607
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: frontend/frontend.php:760 frontend/frontend.php:1002
+msgid "Remind later"
+msgstr "Nhắc lại sau"
+
+#: admin/admin.php:797 admin/admin.php:1206
+msgid "Remove"
+msgstr "Loại bỏ"
+
+#: admin/admin.php:1472
+msgid "Remove this item"
+msgstr "Loại bỏ sản phẩm này"
+
+#: admin/admin.php:85
+msgid "Report"
+msgstr "Báo cáo"
+
+#: admin/admin.php:57
+msgid "Reset total spins"
+msgstr "Đặt lại tổng số vòng quay"
+
+#: admin/admin.php:513
+msgid "Reset total spins every"
+msgstr "Đặt lại tổng số vòng quay sau mỗi"
+
+#: admin/admin.php:448
+msgid "REST API"
+msgstr "REST API"
+
+#: admin/admin.php:1171 includes/elementor/widget.php:178
+msgid "Right"
+msgstr "Bên phải"
+
+#: admin/admin.php:527
+msgid "Run reset function at"
+msgstr "Chạy tính năng cài đặt lại vào"
+
+#: admin/admin.php:2709
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/admin.php:2712
+msgid "Save & Check Key"
+msgstr "Lưu & Kiểm tra"
+
+#: admin/admin.php:669
+msgid "Scroll amount(%)"
+msgstr "Cuộn khoảng(%)"
+
+#: wordpress-lucky-wheel.php:63
+msgid "Search Email"
+msgstr "Tìm Email"
+
+#: admin/admin.php:552
+msgid "Second"
+msgstr "Giây"
+
+#: admin/admin.php:475 admin/admin.php:662 admin/admin.php:718 
+#: admin/admin.php:1299 admin/admin.php:1917
+msgid "Seconds"
+msgstr "Giây"
+
+#: admin/admin.php:2622
+msgid "Secret key"
+msgstr "Secret key"
+
+#: admin/admin.php:988
+msgid "Select font"
+msgstr "Chọn kiểu chữ"
+
+#: admin/admin.php:1841
+msgid "Send admin notification when someone wins a prize"
+msgstr "Gửi thông báo tới Quản trị viên khi khách hàng thắng giải"
+
+#: admin/admin.php:1851
+msgid ""
+"Send notification to this email when someone wins a prize. The from email "
+"will be used if this field is blank"
+msgstr ""
+"Gửi thông báo tới địa chỉ email này khi khách hàng thắng giải. Địa chỉ người "
+"gửi (\"From\" email) sẽ được dùng nếu không có email nào được điền vào "
+"trường này"
+
+#: admin/admin.php:1846
+msgid "Send notification to:"
+msgstr "Gửi thông báo tới:"
+
+#: admin/admin.php:2212
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: admin/admin.php:2225
+msgid "SendGrid API Key"
+msgstr "SendGrid API Key"
+
+#: admin/admin.php:2239
+msgid "Sendgrid lists"
+msgstr "Danh sách Sendgrid"
+
+#: admin/admin.php:2429
+msgid "Sendinblue"
+msgstr "Sendinblue"
+
+#: admin/admin.php:2444
+msgid "Sendinblue API Key"
+msgstr "Sendinblue API Key"
+
+#: admin/admin.php:2458
+msgid "Sendinblue list"
+msgstr "Danh sách Sendinblue"
+
+#: admin/admin.php:1556
+msgid "Set quantity to <strong>-1</strong> to not limit the number of prizes"
+msgstr ""
+"Đặt số lượng là <strong>-1</strong> để không giới hạn số lượng giải thưởng"
+
+#: wordpress-lucky-wheel.php:42
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/admin.php:1306
+msgid "Show full wheel"
+msgstr "Hiện toàn bộ vòng quay"
+
+#: admin/admin.php:739
+msgid "Show only on Blog page"
+msgstr "Chỉ hiển thị trên trang Bài viết"
+
+#: admin/admin.php:727
+msgid "Show only on Homepage"
+msgstr "Chỉ hiển thị trên Trang chủ"
+
+#: admin/admin.php:647
+msgid "Show wheel after users scroll down a specific value"
+msgstr ""
+"Hiển thị vòng quay sau khi khách hàng cuộn xuống tới một điểm nhất định"
+
+#: admin/admin.php:648
+msgid "Show wheel when users move mouse over the top to close browser"
+msgstr "Hiện vòng quay sau khi khách hàng di chuột qua nút đóng trình duyệt"
+
+#: admin/admin.php:2613
+msgid "Site key"
+msgstr "Site key"
+
+#: includes/data.php:395
+msgid "Smile"
+msgstr "Mặt cười"
+
+#: includes/data.php:401
+msgid "Snowballs"
+msgstr "Bóng tuyết"
+
+#: includes/data.php:398
+msgid "Snowflake"
+msgstr "Bông tuyết"
+
+#: includes/data.php:399
+msgid "Snowflake 1"
+msgstr "Bông tuyết 1"
+
+#: includes/data.php:400
+msgid "Snowflake 2"
+msgstr "Bông tuyết 2"
+
+#: frontend/frontend.php:1345
+msgid ""
+"Sorry, this email is marked as spam now. Please enter another email to "
+"continue."
+msgstr ""
+"Địa chỉ thư điện tử này đã được đánh dấu là thư rác. Vui lòng điền một địa "
+"chỉ khác để tiếp tục. "
+
+#: admin/admin.php:906
+msgid "Spin Wheel button"
+msgstr "Nút Quay"
+
+#: admin/admin.php:960
+msgid "Spin Wheel button background color"
+msgstr "Màu nền của nút Quay"
+
+#: admin/admin.php:945
+msgid "Spin Wheel button color"
+msgstr "Màu chữ của nút Quay"
+
+#: includes/elementor/widget.php:199
+msgid "Spinning Time"
+msgstr "Thời gian quay"
+
+#: includes/data.php:396
+msgid "Star"
+msgstr "Ngôi sao"
+
+#: admin/admin.php:2322
+msgid "Subscribed"
+msgstr "Đã đăng ký"
+
+#: admin/admin.php:91 admin/admin.php:3236
+msgid "System Status"
+msgstr "System Status"
+
+#: admin/admin.php:1410 includes/elementor/widget.php:90
+msgid "Text Color"
+msgstr "Màu Chữ"
+
+#: admin/admin.php:855
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: admin/admin.php:1878
+msgid "The content of email sending to admin."
+msgstr "Nội dung email được gửi tới Quản trị viên. "
+
+#: admin/admin.php:1680
+msgid ""
+"The content of email sending to customers to inform them the prize they win."
+msgstr ""
+"Nội dung email được gửi tới khách hàng để thông báo về giải thưởng họ đã "
+"thắng"
+
+#: admin/admin.php:1872
+msgid "The heading of emails sending to admin."
+msgstr "Tiêu đề email được gửi tới Quản trị viên. "
+
+#: admin/admin.php:1650
+msgid "The heading of emails sending to customers when they win."
+msgstr "Tiêu đề thư được gửi tới khách hàng khi thắng giải. "
+
+#: admin/admin.php:455
+msgid "The number of spins per email"
+msgstr "Số lần quay cho mỗi email"
+
+#: admin/admin.php:1285
+msgid ""
+"The number of spins per one second. For example, if you select 10, it means "
+"the wheel spins 10 rolls in one second"
+msgstr ""
+"Số vòng quay cho mỗi giây. Ví dụ, nếu chọn 10; vòng quay sẽ quay 10 vòng "
+"trong một giây"
+
+#: admin/admin.php:1861
+msgid "The subject of emails sending to admin."
+msgstr "Chủ đề thư được gửi tới Quản trị viên."
+
+#: admin/admin.php:1613
+msgid "The subject of emails sending to customers when they win."
+msgstr "Chủ đề thư được gửi tới khách hàng khi thắng giải."
+
+#: admin/admin.php:2632
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: frontend/frontend.php:1380
+msgid "This email has reach the maximum spins."
+msgstr "Email này đã đạt giới hạn số lượt quay."
+
+#: admin/admin.php:504
+msgid "This function is currently DISABLED"
+msgstr "Tính năng này hiện đang TẮT"
+
+#: admin/admin.php:3220
+msgid "To"
+msgstr "Tới"
+
+#: admin/admin.php:1554
+msgid "To change probability, please adjust weight"
+msgstr "Để thay đổi xác suất, vui lòng điều chỉnh trọng số"
+
+#: admin/admin.php:1170 includes/elementor/widget.php:177
+msgid "Top"
+msgstr "Phía trên"
+
+#: admin/admin.php:628
+msgid "Top Left"
+msgstr "Phía trên trái"
+
+#: admin/admin.php:629
+msgid "Top Right"
+msgstr "Phía trên phải"
+
+#: wordpress-lucky-wheel.php:90
+msgid "Total of spins"
+msgstr "Tổng số lần quay"
+
+#: admin/admin.php:3206
+msgid "Total Spins"
+msgstr "Tổng số lần quay"
+
+#: frontend/frontend.php:612
+msgid "Try Your Lucky"
+msgstr "Thử vận may của bạn"
+
+#: admin/admin.php:2596
+msgid "Turn on to use Google ReCaptcha"
+msgstr "Bật để sử dụng Google ReCaptcha"
+
+#: admin/admin.php:2048
+msgid "Turn on to use MailChimp system"
+msgstr "Bật để sử dụng hệ thống MailChimp"
+
+#: admin/admin.php:402
+msgid "Update"
+msgstr "Cập nhật"
+
+#: admin/admin.php:768
+msgid ""
+"Use exclamation mark(!) before a conditional to hide wheel if the "
+"conditional matched. e.g use "
+msgstr ""
+"Dùng dấu chấm than(!) trước một điều kiện để ẩn vòng quay đi nếu điều kiện "
+"đó khớp. ví dụ sử dụng"
+
+#: admin/admin.php:1402
+msgid "Value"
+msgstr "Giá trị"
+
+#: admin/admin.php:1723 admin/admin.php:1892
+msgid "Value of prize that will be sent to customer."
+msgstr "Giá trị giải thưởng được gửi tới khách hàng."
+
+#: admin/admin.php:2601
+msgid "Version"
+msgstr "Phiên bản"
+
+#: wordpress-lucky-wheel.php:61
+msgid "View Email"
+msgstr "Xem Email"
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#: admin/admin.php:1448
+msgid "Weight"
+msgstr "Trọng số"
+
+#: admin/admin.php:388
+msgid "Wheel Background"
+msgstr "Nền Vòng quay"
+
+#: includes/elementor/widget.php:116
+msgid "Wheel Border Color"
+msgstr "Màu Viền Vòng quay"
+
+#: admin/admin.php:1243
+msgid "Wheel border color"
+msgstr "Màu viền Vòng quay"
+
+#: admin/admin.php:1258
+msgid "Wheel border dot color"
+msgstr "Màu chấm tròn trên viền"
+
+#: admin/admin.php:1194
+msgid "Wheel center background image"
+msgstr "Ảnh trung tâm"
+
+#: includes/elementor/widget.php:67
+msgid "Wheel Center Color"
+msgstr "Màu Trung tâm Vòng quay"
+
+#: admin/admin.php:1228
+msgid "Wheel center color"
+msgstr "Màu trung tâm Vòng quay"
+
+#: admin/admin.php:870
+msgid "Wheel description"
+msgstr "Mô tả Vòng quay"
+
+#: includes/elementor/widget.php:105
+msgid "Wheel Dot Color"
+msgstr "Màu Chấm tròn"
+
+#: admin/admin.php:1179
+msgid "Wheel pointer color"
+msgstr "Màu Con trỏ"
+
+#: admin/admin.php:392
+msgid "Wheel Settings"
+msgstr "Cài đặt Vòng quay"
+
+#: includes/elementor/widget.php:211
+msgid "Wheel Speed"
+msgstr "Tốc độ Vòng quay"
+
+#: admin/admin.php:1273
+msgid "Wheel speed"
+msgstr "Tốc độ Vòng quay"
+
+#: admin/admin.php:1291
+msgid "Wheel spinning duration"
+msgstr "Thời gian quay"
+
+#: admin/admin.php:1977
+msgid "Winning effect"
+msgstr "Hiệu ứng thắng giải"
+
+#: admin/admin.php:78
+msgid "WordPress Lucky Wheel"
+msgstr "WordPress Lucky Wheel"
+
+#: wordpress-lucky-wheel.php:68
+msgid "WordPress lucky wheel emails."
+msgstr "Thư của WordPress lucky wheel."
+
+#. Name of the plugin
+msgid "WordPress Lucky Wheel Premium"
+msgstr "WordPress Lucky Wheel Premium"
+
+#: admin/admin.php:379
+msgid "WordPress Lucky Wheel Settings"
+msgstr "Cài đặt WordPress Lucky Wheel"
+
+#: admin/admin.php:78 includes/elementor/widget.php:15
+msgid "WP Lucky Wheel"
+msgstr "WP Lucky Wheel"
+
+#: admin/admin.php:762
+msgid "WP's conditional tags"
+msgstr "WP's conditional tags"
+
+#: admin/admin.php:2328 includes/elementor/widget.php:226 
+#: includes/elementor/widget.php:242 includes/elementor/widget.php:255 
+#: includes/elementor/widget.php:270
+msgid "Yes"
+msgstr "Có"
+
+#: admin/admin.php:1547
+msgid "You can drag and drop slices to rearrange them."
+msgstr "Kéo thả từng phần để sắp xếp lại."
+
+#: frontend/frontend.php:497
+#, php-format
+msgid "You can only spin 1 time every %s days"
+msgstr "Chỉ được quay 1 lần mỗi %s ngày"
+
+#: frontend/frontend.php:494
+#, php-format
+msgid "You can only spin 1 time every %s hours"
+msgstr "Chỉ được quay 1 lần mỗi %s giờ"
+
+#: frontend/frontend.php:491
+#, php-format
+msgid "You can only spin 1 time every %s minutes"
+msgstr "Chỉ được quay 1 lần mỗi %s phút"
+
+#: frontend/frontend.php:488
+#, php-format
+msgid "You can only spin 1 time every %s seconds"
+msgstr "Chỉ được quay 1 lần mỗi %s giây"
+
+#: frontend/frontend.php:1396
+msgid "You have to wait "
+msgstr "Vui lòng đợi"
+
+#: frontend/frontend.php:485
+msgid "You have to wait until your next spin."
+msgstr "Vui lòng đợi đến lượt quay tiếp theo"
+
+#: admin/admin.php:3042
+msgid "Your settings have been saved!"
+msgstr "Cài đặt đã được lưu!"
+
+#: admin/admin.php:1378
+msgid "{prize_quantity} - The quantity of respective prize"
+msgstr "{prize_quantity} - Số lượng giải thưởng tương ứng"
+
+#: admin/admin.php:1345
+msgid "{quantity_label}"
+msgstr "{quantity_label}"

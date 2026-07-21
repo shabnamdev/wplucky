@@ -1,0 +1,251 @@
+= 2.0.0 - 2026-07-16 =
+- {اختصاصی} افزودن ماژول مستقل گردونه شانس با شماره موبایل
+- {اختصاصی} افزودن شورت‌کد اختصاصی موبایل
+- {اختصاصی} حفظ کامل عملکرد نسخه ایمیلی افزونه
+- {اختصاصی} افزودن جدول مستقل شرکت‌کنندگان موبایلی
+- {اختصاصی} محدودسازی شرکت بر اساس شماره موبایل
+- {اختصاصی} دریافت خودکار شماره موبایل کاربران ووکامرس
+- {اختصاصی} افزودن ارسال پیامک جایزه پس از برنده‌شدن
+- {اختصاصی} اتصال به افزونه پیامک ووکامرس فارسی
+- {اختصاصی} افزودن رمز یک‌بارمصرف برای تأیید شماره موبایل
+- {اختصاصی} افزودن ارسال پیامک آزمایشی و تست پیام جایزه
+- {اختصاصی} افزودن گزارش وضعیت و خطاهای ارسال پیامک
+- {اختصاصی} افزودن صفحه مدیریت شرکت‌کنندگان موبایلی
+- {اختصاصی} ثبت عنوان، نوع، مقدار و زمان دریافت جایزه
+- {اختصاصی} افزودن جست‌وجو و خروجی CSV مخاطبان موبایلی
+- {اختصاصی} افزودن تنظیمات اختصاصی ماژول موبایل
+- {اختصاصی} یکپارچه‌سازی طراحی و واکنش‌گرایی نسخه موبایل با گردونه اصلی
+- {اختصاصی} بهبود متن‌ها و نگارش فارسی رابط کاربری
+- {اختصاصی} افزودن کنترل‌های امنیتی و محدودیت درخواست Nonce ، Honeypot 
+
+= 1.4.2 - 2026-07-16 =
+* پوسته شورت‌کد موبایل با پوسته رسمی شورت‌کد اصلی یکپارچه شد؛ پس‌زمینه، رنگ‌ها، متن‌ها و چیدمان واکنش‌گرا اکنون دقیقاً از تنظیمات اصلی خوانده می‌شوند.
+* قابلیت شناسه کمپین از شورت‌کد و رابط مدیریت حذف شد و شناسایی شرکت‌کننده فقط بر اساس شماره موبایل انجام می‌شود.
+* رکوردهای کمپینی نسخه‌های قبلی بدون حذف سابقه چرخش و جایزه، به‌صورت خودکار با رکورد اصلی همان شماره ادغام می‌شوند.
+* بارگذاری CSS در صفحه‌سازها و رندرهای زودهنگام مقاوم‌تر شد.
+* چیدمان رمز یک‌بارمصرف و دسترس‌پذیری دکمه چرخش بهبود یافت.
+
+/**v1.4.1 - 2026.07.15**/
+- Fixed: Campaign attribute is now transferred explicitly from each mobile shortcode to OTP, spin and storage requests
+- Added: Structured mobile prize history including prize type, title, value and winning time
+- Updated: Mobile participants table with centered mobile numbers and clearer Persian labels
+- Added: Native integration with Persian WooCommerce SMS for prize and OTP messages
+- Removed: Mobile module webhook/API credential fields; SMS gateway settings are inherited from Persian WooCommerce SMS
+- Updated: Persian copy throughout the mobile module
+
+/**v1.4.0 - 2026.07.15**/
+- Added: Independent mobile participant table and mobile-first spin logic
+- Added: Shortcode [wordpress_lucky_wheel_mobile] using the shared wheel engine
+- Added: Iranian mobile normalization and Persian/Arabic digit conversion
+- Added: Optional OTP and generic JSON SMS webhook
+- Added: Dedicated mobile settings tab and participant reporting/export
+- Updated: Preserved the existing email shortcode, email table and email integrations
+
+/**v1.3.4 - 2024.11.05**/
+- Fixed: Error reported by customer
+
+/**v1.3.3 - 2024.11.02**/
+- Added: Country code for phone number field
+- Added: Option help you can choose between using the plugin's default background image or replacing it with one of your own
+– Updated: Remove the option 'Enable mobile' and add an option 'Small screen'
+– Updated: Add 12 preset color palette selections for the wheel slides
+– Updated: New design for settings page
+– Updated: Update support class
+
+/**v1.3.2 - 2024.08.29**/
+- Fixed: Fixed declare data type for variable in PHP 7.2
+
+/**v1.3.1 - 2024.08.26**/
+- Fixed: Fixed Brevo (SendInBlue) email api
+- Fixed: Fixed Wheel background default not show
+- Fixed: Fixed Reset Spin Times not working
+- Updated: Fixed get list Klaviyo
+- Updated: Compatible with WP 6.6.1
+- Updated: Update support file
+
+/**v1.3.0 - 2024.04.23**/
+- Updated: Compatible with WP 6.5.0
+- Updated: Update support file
+- Updated: New version email APIs: Klaviyo
+- Fixed: Fixed check exist field phone number and name in mobile
+
+/**v1.2.9 - 2024.02.03**/
+- Fixed: Fixed save white/black list
+
+/**v1.2.8 - 2023.12.14**/
+- Updated: Compatible with FunnelKit
+- Fixed: Fixed filter export report
+- Fixed: Fixed filter email by date
+
+/**v1.2.7 - 2023.12.02**/
+- Fixed: Fixed migrate old data
+
+/**v1.2.6 - 2023.11.08**/
+- Fixed: Fixed export report
+- Fixed: Fixed migrate old data
+- Updated: Compatible with WP 6.4.0
+
+/**v1.2.5 - 2023.10.10**/
+- Fixed: Fixed compatible with plugin 9MAIL – WordPress Email Templates Designer by Villatheme
+- Fixed: Fixed template shortcode
+- Updated: Option whitelist and blacklist domain email
+- Updated: Option check is mobile
+
+/**v1.2.4 - 2023.05.15**/
+- Updated: Update compatible with plugin 9MAIL – WordPress Email Templates Designer by Villatheme
+- Updated: Compatible with WP 6.2.0
+
+/**v1.2.3 - 2023.03.08**/
+- Updated: Add hook 'wplwl_redirect_after_spin' value true/false
+- Updated: Add hook 'wplwl_redirect_after_win' value string url
+- Updated: Add hook 'wplwl_redirect_after_lost' value string url
+- Updated: Update option enable/disable email field and remove hook 'wplwl_skip_enter_email'
+
+/**v1.2.2 - 2023.01.06**/
+- Updated: Added action hooks after api email action do_action( 'wplwl_end_api_email',  $email, $name, $mobile );
+- Updated: Add mail APIs: Sendy
+
+/**v1.2.1 - 2022.11.18**/
+- Fixed: Fixed can not save email api list
+- Fixed: Fixed Google reCaptcha not working in shortcode
+- Updated: Compatible with WP 6.1.0
+- Updated: Add "First spin" and "Last Spin" columns in file .csv export
+
+/**v1.2.0 - 2022.10.22**/
+- Updated: Add hook 'wplwl_skip_enter_email'
+- Updated: Add hook 'wplwl_admin_cc_no_left_price'
+- Updated: Add hook 'wplwl_admin_cc_result'
+- Updated: Compatible with WP6.0.3
+- Fixed: fixed export email incorrect
+- Fixed: fixed shortcode not showing
+- Fixed: History tab in setting admin
+
+/**v1.1.9 - 2022.07.11**/
+- Fixed: fixed setting style not working for shortcode
+- Updated: Add mail APIs: Mailster
+
+/**v1.1.8 - 2022.06.22**/
+- Update: check update file
+- Updated: Added check validated phone number
+- Fixed: Mailchimp couldn't add subscription email
+
+/**v1.1.7 - 2022.06.06***/
+- Fixed: Fixed security
+- Fixed: The wheel can spin even the required fields empty
+- Updated: Compatible with WP6.0
+
+/**v1.1.6 - 2022.03.29**/
+- Updated: Update support file
+
+/**v1.1.5 - 2022.03.23**/
+- Updated: Update support file
+
+/**v1.1.4 - 2022.03.09**/
+- Updated: Mailchimp double opt-in
+
+/**v1.1.3 - 2022.03.04**/
+- Updated: Able to spin with .global format in email address
+- Fixed: Fixed show total spin error
+
+/**v1.1.2 - 2022.02.24**/
+- Fixed: Fixed some function sanitize text fields
+- Added: Added filter hook for changing text font of wheel. Hook name: "wpml_font_text_wheel"
+
+/**v1.1.1 - 2022.02.11**/
+- Updated: Compatible with WP5.9
+- Updated: Updated google reCaptcha
+- Fixed: Fixed couldn't connect SendinBlue
+
+/**v1.1.0 - 2022.01.03**/
+- Updated: Add mail APIs: Hubspot, MailPoet, Klaviyo, SendinBlue, Metrilo
+
+/**v1.0.8 - 2021.12.15**/
+- Updated: Add more information total of spins for per email
+
+/**v1.0.7 - 2021.12.09**/
+- Fixed: Fixed couldn't connect sendgrid
+
+/**v1.0.6 - 2021.12.08**/
+- Updated: Auto reset spins: Reset the total spins of every email to zero at a specific time
+- Updated: Compatibility with WP5.8
+
+/**v1.0.5 - 2020.10.29**/
+- Added: Ability to translate wheel labels to all other languages(WPML/Polylang)
+- Added: Prize quantity
+- Added: More background effects
+- Updated: Use weight instead of percentage so that probability can be more flexible
+
+/**v1.0.4.4 - 2020.08.14**/
+- Updated: Compatibility with WP5.5
+- Added: Custom popup icon
+
+/**v1.0.4.3 - 2020.05.21**/
+- Fixed: Shortcode
+
+/**v1.0.4.2 - 2020.05.20**/
+- Added: Compatibility with Elementor
+- Updated: Compatibility with WP 5.4
+
+/**v1.0.4.1 - 2019.11.16**/
+- Updated: Compatible WP 5.3
+
+/**v1.0.4 - 2019.08.03**/
+- Added: Shortcode [wordpress_lucky_wheel]
+- Added: Change wheel speed
+- Added: Multilingual support
+
+/**v1.0.3.3 - 2019.05.01**/
+- Fixed: Export csv not creating download file
+- Added: Auto get key
+- Added: Send email to admin when someone wins a prize
+
+/**v1.0.3.2 - 2019.01.17**/
+- Updated: Replace function get_current_screen for not working in some cases
+
+/**v1.0.3.1 - 2019.01.03**/
+- Added: Option to adjust the size of the wheel by percentage
+- Added: Option to change text color of each slice
+- Fixed: Button save not showing
+
+/**v1.0.3 - 2018.12.26**/
+- Fixed: Translate warning message
+- Fixed: Class Support
+- Fixed: Check SSL
+- Fixed: Option Show only on Homepage, Blog page and Shop page
+- Fixed: Blurry text on mobile
+- Added: Custom field mobile
+- Added: Option to select ajax endpoint
+- Added: Custom css field
+- Added: Option to show full wheel on desktop
+- Added: Change font size of text on the wheel by %
+- Added: Option to set color randomly from predefined sets for each visitor
+- Added: Preview emails
+- Added: Preview wheel
+- Added: Background effect, Congratulation effect
+- Updated: All wheel slices labels is editable
+- Updated: Optimize getting data
+
+/**v1.0.2.1**/
+- Added: Able to use \n once in wheel slices text
+- Fixed: Class support
+- Fixed: Check SSL
+
+/**v1.0.2**/
+- Fixed: Active purchased code
+- Fixed: Wheel description design
+- Added: More trigger to show wheel
+- Added: Slices text color option
+- Added: ActiveCampaign email api
+- Added: Sendgrid email api
+- Added: Option to set time to show popup again when customers close and do not spin
+
+/**v1.0.1.1 - 2018.05.25**/
+- Fixed: Rename plugin
+
+/**v1.0.1 - 2018.05.05**/
+- Added: Select Google fonts
+- Added: Class wp-lucky-wheel-popup-icon to embed in elsewhere
+- Fixed: Responsive on mobile
+
+/**v1.0.0 - 2018.04.30**/
+- First release.
