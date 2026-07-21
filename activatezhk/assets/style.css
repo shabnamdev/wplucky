@@ -1,0 +1,199 @@
+/*@import "font/font-face.css";*/
+
+#main-guard-page {
+	display: block;
+}
+
+#main-guard-inner {
+	background: -webkit-linear-gradient(100deg, #f4fff6 50%, #eaf9ec 50%);
+	background: -o-linear-gradient(100deg, #f4fff6 50%, #eaf9ec 50%);
+	background: -moz-linear-gradient(100deg, #f4fff6 50%, #eaf9ec 50%);
+	background: linear-gradient(100deg, #f4fff6 50%, #eaf9ec 50%);
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: center;
+	align-items: center;
+	text-align: inherit;
+	min-height: calc(100vh - 100px);
+	direction: inherit;
+}
+
+#main-guard-inner *:focus, .license-input *:focus {
+	outline: none;
+	border: none;
+	box-shadow: 0 0 4px 4px rgba(57, 181, 73, 0.2);
+}
+
+#main-guard-inner * {
+	font-family: Vazirmatn, tahoma, Arial !important;
+}
+
+.license-input {
+	margin-top: 32px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+	max-width: 400px;
+	padding: 15px;
+}
+
+.license-input,
+#main-guard-inner .background-status {
+	padding: 15px;
+}
+
+#main-guard-inner img {
+	max-width: 100%;
+	width: 400px;
+}
+
+#code-style {
+	padding: 7px 15px;
+	border: none;
+	border-radius: 4px;
+	color: white;
+	background: #39b549;
+	font-size: 17px;
+	text-align: center;
+	direction: ltr;
+}
+
+.dir-ltr {
+	direction: ltr;
+}
+
+
+#license-help {
+	background: white;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 14px;
+}
+
+#license-help strong {
+	font-size: 16px;
+}
+
+#license-help ul {
+	list-style: circle;
+	padding: 0 20px;
+}
+
+#license-help ul li {
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+#license-input {
+	margin: 5px 0;
+	padding: 8px;
+	border: none;
+	border-radius: 5px;
+	background: #39b549;
+	color: white;
+	font-size: 16px;
+	letter-spacing: 2px;
+	text-align: center;
+	direction: ltr;
+	outline: none;
+	width: 100%;
+}
+
+#license-input:disabled {
+	background: #5cd46c;
+}
+
+#install-license,
+#remove-license,
+#recheck-license {
+	display: inline-block;
+	padding: 6px 10px;
+	border-radius: 5px;
+	color: black;
+	cursor: pointer;
+	margin: 15px 0;
+	opacity: 0.8;
+	transition: all 200ms;
+	background: #f7ae00;;
+}
+
+
+#recheck-license {
+	color: white;
+	background: #4285f4;
+}
+
+#install-license.disable,
+#remove-license.disable,
+#recheck-license.disable {
+	background: #a5a5a5;
+}
+
+#install-license:hover, #remove-license:hover {
+	opacity: 1;
+	box-shadow: 0 0 10px 3px rgba(255, 204, 7, 0.31);
+}
+
+.text-left {
+	text-align: left;
+}
+
+#license-message,#license-warning {
+	display: none;
+	background: #445a93;
+	margin: 10px 0;
+	border-radius: 5px;
+	min-height: 32px;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	color: white;
+	padding: 10px;
+}
+
+#license-message a {
+	color: white;
+	font-weight: bold;
+}
+
+#license-message .result {
+	/*padding: 10px 0;*/
+}
+
+.waiting {
+	display: inline-block;
+	width: 100%;
+}
+
+.waiting:after {
+	content: " ";
+	display: block;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	border: 6px solid #fff;
+	border-color: #fff transparent #fff transparent;
+	animation: lds-dual-ring 1.2s linear infinite;
+	margin-right: calc(50% - 20px);
+}
+
+@keyframes lds-dual-ring {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+
+@media (max-width: 768px) {
+
+}

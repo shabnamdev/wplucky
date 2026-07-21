@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: guard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-14 21:30+0330\n"
+"PO-Revision-Date: 2022-05-12 18:13+0000\n"
+"Last-Translator: \n"
+"Language-Team: Persian (Iran)\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: validate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Loco-Parser: loco_parse_po"
+
+msgid "WP Lucky Wheel"
+msgstr "گردونه شانس وردپرس"
+
+msgid "WP Lucky Activation"
+msgstr "فعالسازی گردونه شانس"
+
+msgid "Active License"
+msgstr "فعالسازی لایسنس"
+
+#: main-script/html.php:20
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: main-script/html.php:4
+#, php-format
+msgid "%s Activation"
+msgstr "فعال سازی %s"
+
+#: main-script/html.php:48
+#, php-format
+#| msgid ""
+#| "activation check time is reached (%s). your plugin or theme will be "
+#| "disabled soon. please check cron settings. on your host. <a href=\"%s\">"
+#| "cron manual</a>"
+msgid ""
+"Number of failed Activation checks is reached (%s). your plugin or theme "
+"will be disabled soon. Please check cron job settings on your WordPress or "
+"host. <a href=\"%s\">cron manual</a>"
+msgstr ""
+"زمان بررسی صحت لایسنس عقب افتاده است (%s). افزونه یا قالب شما به زودی غیر "
+"فعال خواهد شد. لطفا تنظیمات cron وردپرس یا هاست را بررسی نمایید. <a "
+"href=\"%s\">راهنمای cron</a>"
+
+#: main-script/validate.php:201
+msgid "Are you sure?"
+msgstr "آیا از این کار مطمئن هستید؟"
+
+#: main-script/admin-notif.php:20
+msgid "Check Now"
+msgstr "بررسی کنید"
+
+#: main-script/html.php:17
+msgid "Enter your activation key:"
+msgstr "کلید فعال سازی  را وارد نمایید:"
+
+#: main-script/html.php:17
+msgid ""
+"Your license is active but need to revalidate. if has error on revalidate "
+"you can test after 24 hours."
+msgstr ""
+"لایسنس شما فعال است اما نیاز به تأیید مجدد دارد. اگر در تأیید مجدد خطایی رخ "
+"داد، می‌توانید پس از ۲۴ ساعت دوباره امتحان کنید."
+
+#: main-script/html.php:71
+msgid "Each license can be activated only for one website"
+msgstr "فعال سازی هر لایسنس تنها برای یک وبسایت امکان پذیر می‌باشد."
+
+#: main-script/html.php:67
+msgid ""
+"To use the product, you should enter the license key, to find your license "
+"key, login to your account of zhaket.com and go to downloads section, after "
+"than select product and copy your license key or click on create license "
+"button and copy your license key."
+msgstr ""
+"برای استفاده از این محصول  باید کلید فعال سازی آن را وارد نمایید. برای بدست "
+"آوردن کلید، وارد حساب کاربری خود در وبسایت ژاکت شده و سپس در بخش دانلود "
+"محصول ،‌ لایسنس آن را کپی کرده و در این قسمت وارد نمایید."
+
+#: main-script/validate.php:231
+#, php-format
+msgid ""
+"License of your %s plugin/theme is deactivated. Please check and fix that."
+msgstr ""
+"لایسنس گارد افزونه یا قالب وبسایت %s غیر فعال شده است. لطفا وبسایت خود را "
+"بررسی کرده و مشکل را رفع نمایید"
+
+#: main-script/html.php:62
+msgid ""
+"If you want to transfer a license to another domain, click on the \"Remove / "
+"Change key\", after that login to your account of zhaket.com and go to the "
+"download section and click on change domain button. Enter your new domain "
+"name and use the license key on your desired domain."
+msgstr ""
+"در صورت تمایل به انتقال این لایسنس به وبسایت دیگر، ابتدا با استفاده از دکمه "
+"\"حذف/تغییر کلید\" کلید این وبسایت را حذف نمایید و سپس وارد حساب کاربری خود "
+"در وبسایت ژاکت شده و با استفاده از دکمه تغییر دامنه، دامنه جدید را ثبت "
+"نمایید و سپس کلید خود را برای وبسایت دیگر استفاده نمایید."
+
+#: main-script/html.php:74
+msgid ""
+"If your license is activated on another domain, first click on the \"Remove "
+"/ Change key\" on the old website, then login to your account of zhaket.com "
+"and go to the download section and click on the change domain button, enter "
+"your website domain name and use the license key to activate."
+msgstr ""
+"در صورتی که قبلا لایسنس خود را در وبسایت دیگری فعال نموده‌اید باید ابتدا با "
+"استفاده از دکمه \"حذف/تغییر کلید\" کلید آن وبسایت را حذف نمایید و سپس وارد "
+"حساب کاربری خود در وبسایت ژاکت شده و با استفاده از دکمه تغییر دامنه، دامنه "
+"جدید را ثبت نمایید و سپس کلید خود را برای این وبسایت استفاده نمایید."
+
+#: main-script/validate.php:177
+msgid "License removed successfully"
+msgstr "لایسنس با موفقیت حذف گردید"
+
+#: main-script/html.php:54
+msgid "Manual:"
+msgstr "راهنما:"
+
+#: main-script/html.php:42
+msgid "No cron jobs found. Your license can not be activated."
+msgstr ""
+"متاسفانه cron job مسئول بررسی وضعیت لایسنس پیدا نشد. لایسنس شما به صورت "
+"خودکار غیر فعال خواهد شد."
+
+#: main-script/validate.php:316
+msgid ""
+"php cURL is not active in host configuration. please send a ticket to your "
+"host administrator to check and activate cURL for php."
+msgstr ""
+"به نظر میرسد در تنظیمات هاست شما cURL فعال نمی‌باشد. لطفا به سرویس دهنده "
+"هاست تیکت زده و اعلام نمایید که cURL را فعال نمایید."
+
+#: main-script/validate.php:95 main-script/validate.php:126
+#: main-script/validate.php:134 main-script/validate.php:169
+msgid "Please refresh and retry"
+msgstr "لطفا این صفحه را مجدد باز کرده و تلاش نمایید"
+
+#: main-script/validate.php:115
+msgid "Connection to guard server is failed. please try again."
+msgstr "در ارتباط با سرور گارد مشکلی پیش آمده، لطفا مجدد تلاش نمایید."
+
+#: main-script/html.php:9
+msgid "Recheck license"
+msgstr "بررسی مجدد"
+
+#: main-script/admin-notif.php:8
+msgid "Register License key"
+msgstr "ثبت کد فعال سازی"
+
+#: main-script/html.php:10
+msgid "Remove / Change key"
+msgstr "حذف / تغییر کلید"
+
+#: main-script/validate.php:204
+msgid "Something is wrong, please check the console log for details"
+msgstr ""
+"مشکلی پیش آمده، برای مشاهده جزئیات میتوانید به گزارشات کنسول مراجعه نمایید"
+
+#: main-script/validate.php:202
+msgid "Something goes wrong, please try again."
+msgstr "مشکلی پیش آمده. لطفا مجدد تلاش نمایید."
+
+#: main-script/html.php:86
+#, php-format
+msgid "The %s constant is set to true."
+msgstr "ثابت %s با مقدار true ذخیره شده است."
+
+#: main-script/html.php:82
+#, php-format
+msgid "The %s constant is set to true. WP-Cron spawning is disabled."
+msgstr ""
+"ثابت %s به صورت true تنظیم گردیده است. wp-cron خودکار غیر فعال می‌باشد."
+
+#: main-script/admin-notif.php:19
+#, php-format
+msgid "Something is wrong with your %s license. Please check it."
+msgstr "مشکلی در کد فعال سازی %s ایجاد شده. لطفا آن را بررسی نمایید."
+
+#: main-script/admin-notif.php:7
+#, php-format
+msgid "To activating %s, please insert your license key"
+msgstr "برای فعال سازی %s لطفا کلید لایسنس خود را وارد نمایید"
+
+#: main-script/html.php:6
+msgid "Your activation key:"
+msgstr "کلید فعال سازی شما:"
+
+#: main-script/html.php:58
+msgid ""
+"Your key is used on this website, and it is not possible to use on another "
+"website."
+msgstr ""
+"کلید شما در این وبسایت استفاده شده و لذا امکان استفاده در وبسایت دیگر را "
+"نخواهد داشت."
+
+#: main-script/validate.php:149
+msgid "License key is not valid, Or access to guard server has problem"
+msgstr ""
+"لایسنس وارد شده معتبر نمی‌باشد، و یا ارتباط با سرور گارد ژاکت برقرار نشده است"
+
+#: main-script/validate.php:102 main-script/validate.php:206
+msgid "License key is not valid, Please enter valid license key."
+msgstr "لایسنس وارد شده معتبر نمی‌باشد، لطفا یک لایسنس معتبر وارد نمایید"
+
+#: main-script/validate.php:158
+msgid "License is valid"
+msgstr "لایسنس شما معتبر می‌باشد"
+
+#: main-script/admin-notif.php:12
+msgid ""
+"The PHP version of the website is lower than 7.0. Ask your host "
+"administrator to upgrade PHP version to activate %s. "
+msgstr ""
+"نسخه php وبسایت شما پایین تر از 7 می‌‌باشد. برای فعال سازی %s ،‌لازم است که "
+"نسخه خود را افزایش دهید."
+
+#: main-script/validate.php:337
+msgid ""
+"cURL extension on your server has problem, return code: %s. Contact your "
+"host administrator to fix it on the URL: %s."
+msgstr ""
+"به نظر می رسد قابلیت cURL در سرور شما مشکل دارد. کدبازگشتی: %s . لطفا با "
+"مسئول هاست سایت خود تماس گرفته یا تیکتی برای آنها ارسال کنید و بخواهید تا "
+"مشکل ماژول cURL را برای %s رفع کنند."
+
+#: main-script/validate.php:230
+msgid "License key is disabled"
+msgstr "غیر فعال شدن گارد"

@@ -1,0 +1,224 @@
+@font-face {
+    font-family: "wplwl_gift_icons";
+    src: url("../fonts/gift-icons/gift-icons.eot");
+    src: url("../fonts/gift-icons/gift-icons.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/gift-icons/gift-icons.woff") format("woff"),
+    url("../fonts/gift-icons/gift-icons.ttf") format("truetype"),
+    url("../fonts/gift-icons/gift-icons.svg#wplwl_gift_icons") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "wplwl_gift_icons";
+        src: url("../fonts/gift-icons/gift-icons.svg#wplwl_gift_icons") format("svg");
+    }
+}
+
+[class^="wplwl_gift_icons-"]:before, [class*=" wplwl_gift_icons-"]:before,
+[class^="wplwl_gift_icons-"]:after, [class*=" wplwl_gift_icons-"]:after {
+    font-family: wplwl_gift_icons !important;
+    font-size: inherit !important;
+    font-style: normal !important;
+    margin: 0 !important;
+}
+.wplwl_gift_icons-aniversary-giftbox:before {
+    content: "\f100";
+}
+
+.wplwl_gift_icons-big-giftbox-and-gift-with-heart:before {
+    content: "\f101";
+}
+
+.wplwl_gift_icons-big-giftbox-with-bun:before {
+    content: "\f102";
+}
+
+.wplwl_gift_icons-big-giftbox-with-lateral-lace:before {
+    content: "\f103";
+}
+
+.wplwl_gift_icons-big-giftbox-with-ribbon:before {
+    content: "\f104";
+}
+
+.wplwl_gift_icons-cylindrical-giftbox-with-ribbon:before {
+    content: "\f105";
+}
+
+.wplwl_gift_icons-gifbox-with-lace:before {
+    content: "\f106";
+}
+
+.wplwl_gift_icons-gifbox-with-ribbon-in-the-middle:before {
+    content: "\f107";
+}
+
+.wplwl_gift_icons-gifbox-with-ribbon-on-top:before {
+    content: "\f108";
+}
+
+.wplwl_gift_icons-gifbox-wrapped-with-ribbon:before {
+    content: "\f109";
+}
+
+.wplwl_gift_icons-gift-with-bow:before {
+    content: "\f10a";
+}
+
+.wplwl_gift_icons-gift-with-ribbon:before {
+    content: "\f10b";
+}
+
+.wplwl_gift_icons-giftbox-side:before {
+    content: "\f10c";
+}
+
+.wplwl_gift_icons-giftbox-with-a-big-ribbon-on-cover:before {
+    content: "\f10d";
+}
+
+.wplwl_gift_icons-giftbox-with-a-heart:before {
+    content: "\f10e";
+}
+
+.wplwl_gift_icons-giftbox-with-a-heart-on-side:before {
+    content: "\f10f";
+}
+
+.wplwl_gift_icons-giftbox-with-big-lace:before {
+    content: "\f110";
+}
+
+.wplwl_gift_icons-giftbox-with-big-lace-1:before {
+    content: "\f111";
+}
+
+.wplwl_gift_icons-giftbox-with-big-ribbon:before {
+    content: "\f112";
+}
+
+.wplwl_gift_icons-giftbox-with-big-ribbon-1:before {
+    content: "\f113";
+}
+
+.wplwl_gift_icons-giftbox-with-big-ribbon-2:before {
+    content: "\f114";
+}
+
+.wplwl_gift_icons-giftbox-with-big-ribbon-3:before {
+    content: "\f115";
+}
+
+.wplwl_gift_icons-giftbox-with-bun:before {
+    content: "\f116";
+}
+
+.wplwl_gift_icons-giftbox-with-flower:before {
+    content: "\f117";
+}
+
+.wplwl_gift_icons-giftbox-with-hearts:before {
+    content: "\f118";
+}
+
+.wplwl_gift_icons-giftbox-with-lace-on-a-side:before {
+    content: "\f119";
+}
+
+.wplwl_gift_icons-giftbox-with-long-ribbon:before {
+    content: "\f11a";
+}
+
+.wplwl_gift_icons-giftbox-with-ribbon:before {
+    content: "\f11b";
+}
+
+.wplwl_gift_icons-giftbox-with-ribbon-on-one-side:before {
+    content: "\f11c";
+}
+
+.wplwl_gift_icons-giftbox-with-ribbon-on-top:before {
+    content: "\f11d";
+}
+
+.wplwl_gift_icons-giftbox-with-ribbon-on-top-1:before {
+    content: "\f11e";
+}
+
+.wplwl_gift_icons-giftbox-wrapped:before {
+    content: "\f11f";
+}
+
+.wplwl_gift_icons-heart-shape-giftbox-with-lace:before {
+    content: "\f120";
+}
+
+.wplwl_gift_icons-heart-shape-giftbox-with-ribbon:before {
+    content: "\f121";
+}
+
+.wplwl_gift_icons-heart-shapped-gifbox-with-ribbon:before {
+    content: "\f122";
+}
+
+.wplwl_gift_icons-open-box-with-two-hearts:before {
+    content: "\f123";
+}
+
+.wplwl_gift_icons-open-gitfbox-with-two-hearts:before {
+    content: "\f124";
+}
+
+.wplwl_gift_icons-polka-dots-giftbox-with-lace:before {
+    content: "\f125";
+}
+
+.wplwl_gift_icons-rectangular-giftbox-with-flower:before {
+    content: "\f126";
+}
+
+.wplwl_gift_icons-round-gift-box-with-lace:before {
+    content: "\f127";
+}
+
+.wplwl_gift_icons-round-giftbox-with-flower:before {
+    content: "\f128";
+}
+
+.wplwl_gift_icons-square-gifbox-wrapped:before {
+    content: "\f129";
+}
+
+.wplwl_gift_icons-square-gifsoft-with-bun:before {
+    content: "\f12a";
+}
+
+.wplwl_gift_icons-square-giftbox-with-big-lace:before {
+    content: "\f12b";
+}
+
+.wplwl_gift_icons-square-giftbox-with-big-ribbon:before {
+    content: "\f12c";
+}
+
+.wplwl_gift_icons-three-giftboxes-with-ribbon-and-heart:before {
+    content: "\f12d";
+}
+
+.wplwl_gift_icons-two-gifboxes-tied-together:before {
+    content: "\f12e";
+}
+
+.wplwl_gift_icons-two-gifboxes-wrapped:before {
+    content: "\f12f";
+}
+
+.wplwl_gift_icons-two-giftboxes:before {
+    content: "\f130";
+}
+
+.wplwl_gift_icons-valentines-giftbox:before {
+    content: "\f131";
+}

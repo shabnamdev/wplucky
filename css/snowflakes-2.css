@@ -1,0 +1,110 @@
+/*snowflake 2*/
+.wplwl-background-effect-snowflakes-2-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.wplwl-background-effect-snowflakes-2 i:after,
+.wplwl-background-effect-snowflakes-2 i:before {
+    content: "";
+}
+
+.wplwl-background-effect-snowflakes-2 i:after,
+.wplwl-background-effect-snowflakes-2 i:before,
+.wplwl-background-effect-snowflakes-2 i {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.wplwl-background-effect-snowflakes-2 i:after {
+    animation: wplwl_falling_down_snow 4s linear infinite;
+}
+
+.wplwl-background-effect-snowflakes-2 i:before {
+    animation: wplwl_falling_down_snow 8s linear infinite;
+}
+
+.wplwl-background-effect-snowflakes-2 i {
+    animation: wplwl_falling_down_snow 20s linear infinite;
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-1 i:after {
+    background: url("../images/falling-snow/snowballs-lg.png") repeat 0px 0px;
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-1 i:before {
+    background: url("../images/falling-snow/snowballs-md.png") repeat 0px 0px;
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-1 i {
+    background: url("../images/falling-snow/snowballs-sm.png") repeat 0px 0px;
+}
+
+@keyframes wplwl_falling_down_snow {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 0px 280px;
+    }
+}
+.wplwl-background-effect-snowflakes-2.left-side i:after,
+.wplwl-background-effect-snowflakes-2.left-side i:before,
+.wplwl-background-effect-snowflakes-2.left-side i {
+    animation-name: falling-left-side-snow;
+}
+
+.wplwl-background-effect-snowflakes-2.right-side i:after,
+.wplwl-background-effect-snowflakes-2.right-side i:before,
+.wplwl-background-effect-snowflakes-2.right-side i {
+    animation-name: falling-right-side-snow;
+}
+
+@keyframes falling-left-side-snow {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: -280px 280px;
+    }
+}
+
+@keyframes falling-right-side-snow {
+    from {
+        background-position: 0 0;
+    }
+    to {
+        background-position: 280px 280px;
+    }
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-2 i:after {
+    background-image: url("../images/falling-snow/snowflakes-lg.png");
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-2 i:before {
+    background-image: url("../images/falling-snow/snowflakes-md.png");
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-2 i {
+    background-image: url("../images/falling-snow/snowflakes-sm.png");
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-3 i:after {
+    background-image: url("../images/falling-snow/blurred-snow-lg.png");
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-3 i:before {
+    background-image: url("../images/falling-snow/blurred-snow-md.png");
+}
+
+.wplwl-background-effect-snowflakes-2.wplwl-background-effect-snowflakes-2-3 i {
+    background-image: url("../images/falling-snow/blurred-snow-sm.png");
+}
